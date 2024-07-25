@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on car_showroom
-- 🌱 I’m currently learning Django and DRF
+- 🌱 I’m currently learning Django, DRF and FastAPI
 
 
